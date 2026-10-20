@@ -5,7 +5,7 @@ A simple, clean, and responsive web-based calculator built using HTML5, CSS3, an
 ---
 
 ## 🚀 Live Demo
-👉 [Live Preview Link](यहाँ_लाइव_कैलकुलेटर_का_लिंक_डालें)
+👉 [Live Preview Link](https://krishu-dev01.github.io/Morden-calculator-/)
 
 ---
 
