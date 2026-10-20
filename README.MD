@@ -35,4 +35,4 @@ calculator/
 
 ## 👨‍💻 Author
 **Krishu Karn**  
-* GitHub: [@KrishuDev01](https://github.com/KrishuDev01)
+*GitHub:[https://github.com/krishu-dev01](https://github.com/krishu-dev01)
